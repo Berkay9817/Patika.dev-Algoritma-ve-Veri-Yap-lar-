@@ -20,6 +20,7 @@ Big-O gösterimi: n+(n-1)+(n-2)......+1= (n.(n+1))/2= (n^2+n)/2  Big O Notation 
 ---
 
 Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
+
 **Average case**
 
 ---
